@@ -1,1 +1,1 @@
-# Laptop-Price-prediction
+pip freeze > requirements.txt
